@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###### LeaderBoard
+# LeaderBoard
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
