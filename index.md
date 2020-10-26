@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-# LeaderBoard
 
-| head1        | head two          | three |
+| Participant  | Roll Number       | Score |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| test         | LMAO              | 100   |
+| test 1       | LMAO              | 100   |
+| test 2       | LMAO              | 100   |
+| test 3       | LMAO              | 100   |
